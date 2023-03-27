@@ -25,12 +25,16 @@
   <a href="https://www.linkedin.com/in/ivandoria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-My first ever robot:
+My first ever robot, and my latest one:
 
 <img width="500" alt="2022-04-09_122409" src="docs/frank.png">
+<img width="500" alt="2022-04-09_122409" src="docs/desert.png">
+
+It's a marathon and not a race after all :)
 
 <!--
 **idoria75/idoria75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

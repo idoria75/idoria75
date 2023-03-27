@@ -2,7 +2,8 @@
 
 :warning: This page is still under construction! Stay tuned 😝: :warning:
 
-[![idoria75](https://github-readme-stats.vercel.app/api?username=idoria75&count_private=true&show_icons=true&theme=tokyonight&hide=contribs)](https://github.com/idoria75)
+[![idoria75](https://github-readme-stats.vercel.app/api?username=idoria75&count_private=true&show_icons=true&theme=gotham&bg_color=00000000&hide=contribs)](https://github.com/idoria75)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=idoria75&hide_progress=true&hide=Makefile,html&langs_count=8&theme=gotham&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **idoria75/idoria75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

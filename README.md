@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github page! 👋
 
 :warning: This page is still under construction! Stay tuned 😝: :warning:
 
@@ -6,7 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idoria75&hide_progress=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github.com/idoria75/idoria75/raw/master/docs/frank.png)
+My first ever robot:
+
+<img width="500" alt="2022-04-09_122409" src="docs/frank.png">
 
 <!--
 **idoria75/idoria75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

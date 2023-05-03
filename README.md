@@ -1,6 +1,4 @@
-### Welcome to my Github page! 👋
-
-:warning: This page is still under construction! Stay tuned 😝: :warning:
+## Hey 👋, I'm Ivan!
 
 [![idoria75](https://github-readme-stats.vercel.app/api?username=idoria75&count_private=true&show_icons=true&theme=algolia&hide=contribs)](https://github.com/idoria75)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idoria75&hide_progress=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->

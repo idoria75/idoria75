@@ -1,47 +1,51 @@
-## Hey 👋, I'm Ivan!
+# Hey 👋, I'm Ivan!
 
-<!--[![Ivan's Github Stats](https://github-readme-stats.vercel.app/api?username=idoria75&count_private=true&show_icons=true&theme=algolia&hide=contribs)](https://github.com/idoria75)-->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idoria75&hide_progress=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2296ED&width=435&lines=Robotics+Developer;ROS+Enthusiast;Builder+of+Robots)](https://github.com/idoria75)
 
-### Languages and Tools:
-<div style="display: inline_block">
-  <img align="center" alt="id" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg">
-  <img align="center" alt="id" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="id" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="id" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="id" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="id" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  <img align="center" alt="id" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
-  <img align="center" alt="id" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="id" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+🤖 Robotics software engineer working on mobile robots and embedded systems
 
-</div>
+🔧 I build robot software with **ROS, C++ and Python**.
 
-### Reach me:
-<div> 
-  <a href = "mailto:ivanpdoria@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ivandoria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+🌱 Currently exploring **React/JavaScript** for robot dashboards and web-based teleoperation
 
-### My first ever robot, and my latest one:
+## 🚀 Things I've built
 
-<img width="500" alt="2022-04-09_122409" src="docs/frank.png">
-<img width="500" alt="2022-04-09_122409" src="docs/desert.png">
-
-It's a marathon and not a race after all :)
-
-<!--
-**idoria75/idoria75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[4Legged_SpiderBot](https://github.com/idoria75/4Legged_SpiderBot)** — Quadruped robot with custom gait control (C++, Arduino)
+- **[smart_house](https://github.com/idoria75/smart_house)** — ESP32 and Raspberry Pi wireless sensor network to monitor home conditions
+- **[ros2-gst-test](https://github.com/idoria75/ros2-gst-test)** — Integration between ROS 2 and GStreamer for robot video streaming (C++)
 
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Robotics
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e86e05?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧰 Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 📊 Stats
+
+[![Ivan's Github Stats](https://github-readme-stats.vercel.app/api?username=idoria75&count_private=true&show_icons=true&theme=algolia&hide=contribs)](https://github.com/idoria75)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idoria75&hide_progress=true&theme=algolia&layout=compact)](https://github.com/idoria75)
+
+## 🤖 My first robot vs. my latest one
+
+| First robot (2016) | Latest robot (2026) |
+|:---:|:---:|
+| <img src="docs/frank.png" width="400" alt="My first robot"> | <img src="docs/desert.png" width="400" alt="My latest robot"> |
+
+It's a marathon, not a race :)
+
+## 📫 Reach me
+
+<a href="https://www.linkedin.com/in/ivandoria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
